@@ -1,0 +1,24 @@
+.todo-div{
+    
+    width: 500px;
+    margin: 10% 40%;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+    background-color: #6b3bb3;
+    padding: 30px 30px 30px;
+    -webkit-box-shadow: -4px -2px 21px 5px rgba(56,46,128,1);
+-moz-box-shadow: -4px -2px 21px 5px rgba(56,46,128,1);
+box-shadow: -4px -2px 21px 5px rgba(56,46,128,1)
+}
+.todo-div h1{
+   letter-spacing: 1px;
+
+}
+.todo-div ul{
+    margin-top: 10px;
+    list-style: none;
+}
+.todo-div span{
+    border-bottom: #11a4b8 1px solid ;
+}

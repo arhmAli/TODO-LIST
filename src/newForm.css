@@ -1,0 +1,15 @@
+.adding-btn{
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    border-radius: 10%;
+}
+.adding-btn:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    transition: all ease-in-out 0.5s;
+}
+.adding-btn:active{
+    cursor: pointer;
+    transform: scale(0.9);
+    transition: all ease-in 0.1s;
+}
